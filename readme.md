@@ -8,5 +8,3 @@ Heheheha. It's my new repository <img src='https://media.tenor.com/3yuTJ7S5yeQAA
 <img src='https://mlcourse.ai/_static/mlcourse_ai_logo.jpg' width=20% height=20%>
 
 
-
-
