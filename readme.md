@@ -7,4 +7,3 @@ Heheheha. It's my new repository <img src='https://media.tenor.com/3yuTJ7S5yeQAA
 
 <img src='https://mlcourse.ai/_static/mlcourse_ai_logo.jpg' width=20% height=20%>
 It's fine
-UPD for 18.10.2023: No commits here today (thanks to f🤗cking school)
